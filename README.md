@@ -49,6 +49,8 @@
 
    Tracking the total amount received from borrowers for 'Good Loans,' which encompasses all payments made on loans with a loan status of 'Fully Paid' and 'Current.' Bad Loan KPIs:
 
+**Bad Loan KPIs:**
+
 **6.5. Bad Loan Application Percentage:**
 
    Calculating the percentage of loan applications categorized as 'Bad Loans.' This category specifically includes loans with a loan status of 'Charged Off.'
